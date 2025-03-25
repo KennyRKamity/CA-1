@@ -17,6 +17,8 @@ int main() {
 		return 0;
 	    case2:
 		printf("you have chosen btech mechanical\n")
+	    case3:
+	        printf("you have chosen btech aiml\n")
 	    default:
 		printf("invalid choice!\n");
 	}
