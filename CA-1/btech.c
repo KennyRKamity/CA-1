@@ -12,9 +12,11 @@ int main() {
 
 	switch(choice) {
             case1:
-		print("You have chosen Btech CSE\n");
+		printf("You have chosen Btech CSE\n");
 		break;
 		return 0;
+	    case2:
+		printf("you have chosen btech mechanical\n")
 	    default:
 		printf("invalid choice!\n");
 	}
